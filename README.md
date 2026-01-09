@@ -196,7 +196,3 @@ This tool is intended for authorized security testing and educational purposes o
 - [ADB Auditor](https://adbauditor.com) - Android Security Analysis Tool
 
 ---
-
-<p align="center">
-  Made with ❤️ for the security community
-</p>
