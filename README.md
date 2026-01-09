@@ -43,9 +43,13 @@ IPA Auditor is a browser-based static security analysis tool for iOS application
 
 ## Screenshots
 
-### 🔐 iOS Security Analysis Dashboard
-Modern, client-side iOS security analysis interface. Upload IPA files securely and perform deep static analysis without any data leaving your browser.
+![ipa auditor 1](https://github.com/user-attachments/assets/6ec121f7-b6e4-44e4-af15-c61e9e4f0492)
 
+---
+
+### 🔐 iOS Security Analysis Dashboard
+
+![dashbord](https://github.com/user-attachments/assets/2af0c96d-f113-4c51-ae6f-1329e6551f88)
 
 
 ---
@@ -53,12 +57,15 @@ Modern, client-side iOS security analysis interface. Upload IPA files securely a
 ### 🧩 Security Findings & Vulnerability Analysis
 Comprehensive security findings categorized by severity with detailed remediation guidance based on OWASP MASVS.
 
-
+![ipa 2](https://github.com/user-attachments/assets/71e94d65-3df9-4bb5-bf5d-732164600a09)
 
 ---
 
 ### 📁 IPA File Explorer with Hex Viewer
 Full-featured file browser with syntax highlighting, hex viewer, and string extraction for binary analysis.
+
+![ipa aud 3](https://github.com/user-attachments/assets/0420a915-5351-4d77-87eb-be20d61ab1ee)
+
 
 
 ## 🔍 Security Checks
@@ -175,11 +182,6 @@ This tool is intended for authorized security testing and educational purposes o
 - **plist.js** - Property list parsing
 - **jsPDF** - PDF report generation
 - **Vanilla JS** - No framework dependencies
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 
 ## Author
 
