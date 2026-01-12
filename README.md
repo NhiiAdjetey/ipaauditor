@@ -127,16 +127,47 @@ IPA Auditor performs **50+ security checks** across multiple categories:
 Visit [ipaauditor.com](https://ipaauditor.com) to use the tool directly in your browser.
 
 ### Local Setup
+
 ```bash
 # Clone the repository
 git clone https://github.com/thecybersandeep/ipaauditor.git
 
 # Navigate to the directory
 cd ipaauditor
-
-# Open in browser (no server required)
-# Simply open index.html in your browser
 ```
+
+#### Option 1: Direct File Opening (Simplest) ✅
+
+Simply double-click `index.html` to open it in your browser. **It works offline!**
+
+```bash
+# Windows
+start index.html
+
+# macOS
+open index.html
+
+# Linux
+xdg-open index.html
+```
+
+#### Option 2: Local Server (For Development)
+
+If you prefer using a local server:
+
+**Python:**
+```bash
+python -m http.server 8000
+# Open http://localhost:8000
+```
+
+**Node.js:**
+```bash
+npx serve .
+# Open http://localhost:3000
+```
+
+**VS Code:** Install "Live Server" extension → Right-click `index.html` → "Open with Live Server"
 
 ### How to Use
 1. **Drop or Select** your IPA file
@@ -170,6 +201,23 @@ Generate professional PDF reports containing:
 - Detected trackers/SDKs
 - CWE and OWASP references
 
+## 📁 Project Structure
+
+```
+ipaauditor/
+├── index.html          # Main application page
+├── ipa-analyzer.js     # Core analysis engine
+├── lib/                # Third-party libraries
+│   ├── jszip.min.js    # ZIP file processing
+│   ├── plist.min.js    # Property list parsing
+│   └── jspdf.umd.min.js # PDF generation
+├── start-server.bat    # Windows server launcher
+├── start-server.sh     # Mac/Linux server launcher
+├── README.md           # This file
+├── LICENSE             # CC BY-NC-ND 4.0
+└── CNAME               # Custom domain config
+```
+
 ## Disclaimer
 
 This tool is intended for authorized security testing and educational purposes only. Users are responsible for ensuring they have proper authorization before analyzing any application. The authors are not responsible for any misuse of this tool.
@@ -194,4 +242,3 @@ This tool is intended for authorized security testing and educational purposes o
 ## 🔗 Related Projects
 
 - [ADB Auditor](https://adbauditor.com) - Android Security Analysis Tool
-
